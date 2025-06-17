@@ -9,12 +9,6 @@ h1 {
     color: aquamarine;
     font-size: 16px;
 }
-
-* {
-    background-color: black;
-    text-align: center;
-}
-
 .guide h2 {
     font-family: Verdana;
     font-weight: 300;
@@ -35,4 +29,8 @@ footer h2 {
     font-size: 21px;
     color: gray;
     text-align: right;
+}
+html {
+    background-color: black;
+    text-align: center;
 }
